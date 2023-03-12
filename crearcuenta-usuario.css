@@ -1,0 +1,974 @@
+.crearcuenta-usuario-container {
+  min-height: 100vh;
+}
+.crearcuenta-usuario-crearcuenta-usuario {
+  width: 100%;
+  height: 813px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.crearcuenta-usuario-component16 {
+  top: 595px;
+  left: 424px;
+  width: 550px;
+  height: 208px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-usuario-rectangle6 {
+  top: 138.6666717529297px;
+  left: 0px;
+  width: 457px;
+  height: 69px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 25px;
+}
+.crearcuenta-usuario-text {
+  top: 155.82130432128906px;
+  left: 124.22118377685547px;
+  color: rgba(255, 255, 255, 1);
+  width: 235px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-component3 {
+  top: 0px;
+  left: 0px;
+  width: 550px;
+  height: 108.64604949951172px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-usuario-text02 {
+  color: rgba(0, 0, 0, 1);
+  width: 442px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-rectangle4 {
+  top: 39.312713623046875px;
+  left: 0px;
+  width: 457px;
+  height: 69px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.crearcuenta-usuario-rectangle5 {
+  top: 45.745704650878906px;
+  left: 22.27414321899414px;
+  width: 412px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.crearcuenta-usuario-text04 {
+  top: 57.182132720947266px;
+  left: 34.267913818359375px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 304px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-text06 {
+  top: 15.010309219360352px;
+  left: 245.8722686767578px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 304px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-eye {
+  top: 61.47079086303711px;
+  left: 392.36761474609375px;
+  width: 39px;
+  height: 19px;
+  position: absolute;
+}
+.crearcuenta-usuario-rectangle35 {
+  top: 174px;
+  left: 619px;
+  width: 856px;
+  height: 633px;
+  position: absolute;
+  border-color: transparent;
+}
+.crearcuenta-usuario-component31 {
+  top: 0px;
+  left: 0px;
+  width: 546px;
+  height: 98.25276184082031px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-usuario-text07 {
+  color: rgba(0, 0, 0, 1);
+  width: 439px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-rectangle41 {
+  top: 35.55198669433594px;
+  left: 0px;
+  width: 453px;
+  height: 63px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.crearcuenta-usuario-rectangle51 {
+  top: 41.36958312988281px;
+  left: 22.119783401489258px;
+  width: 409px;
+  height: 51px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.crearcuenta-usuario-text09 {
+  top: 51.711978912353516px;
+  left: 34.030433654785156px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 302px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-text11 {
+  top: 13.574395179748535px;
+  left: 244.16836547851562px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 302px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-eye1 {
+  top: 55.59037780761719px;
+  left: 389.6484680175781px;
+  width: 38px;
+  height: 18px;
+  position: absolute;
+}
+.crearcuenta-usuario-frame7 {
+  top: 0px;
+  left: 0px;
+  width: 1441px;
+  height: 171px;
+  display: flex;
+  padding: 10px 1px 10px 0;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.crearcuenta-usuario-iniciosuperior {
+  width: 1440px;
+  height: 189px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-usuario-inicio-superior1 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 183px;
+  position: absolute;
+  border-color: transparent;
+}
+.crearcuenta-usuario-izquierda {
+  top: 0px;
+  left: 0px;
+  width: 509px;
+  height: 189px;
+  position: absolute;
+  border-color: transparent;
+}
+.crearcuenta-usuario-text12 {
+  top: 48px;
+  left: 205px;
+  color: var(--dl-color-default-inicio);
+  width: 289px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Gayathri;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-pngegg11 {
+  top: 32px;
+  left: 45px;
+  width: 131px;
+  height: 119px;
+  position: absolute;
+  border-color: transparent;
+}
+.crearcuenta-usuario-text14 {
+  top: 85.11257934570312px;
+  left: 577px;
+  color: var(--dl-color-default-colortextprincipal);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.crearcuenta-usuario-text16 {
+  top: 85.11257934570312px;
+  left: 805.0001831054688px;
+  color: var(--dl-color-default-colortextprincipal);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.crearcuenta-usuario-text18 {
+  top: 87.61589050292969px;
+  left: 994px;
+  color: var(--dl-color-default-colortextprincipal);
+  width: 168px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.crearcuenta-usuario-frame14 {
+  top: 38px;
+  left: 1299px;
+  width: 141px;
+  height: 25px;
+  display: flex;
+  padding: 5px 5px 4px 5px;
+  position: absolute;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.crearcuenta-usuario-text20 {
+  color: var(--dl-color-default-inicio);
+  width: 107px;
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 6px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-vector {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.crearcuenta-usuario-text22 {
+  top: 85.11257934570312px;
+  left: 705.0001831054688px;
+  color: var(--dl-color-default-colortextprincipal);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.crearcuenta-usuario-text24 {
+  top: 210px;
+  left: 441px;
+  color: rgba(243, 115, 32, 0.7400000095367432);
+  width: 482px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-component4 {
+  top: 391px;
+  left: 589px;
+  width: 405px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-usuario-text26 {
+  color: rgba(0, 0, 0, 1);
+  width: 300px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-rectangle3 {
+  top: 25.35211181640625px;
+  left: 0px;
+  width: 405px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.crearcuenta-usuario-rectangle2 {
+  top: 30.422534942626953px;
+  left: 19.7560977935791px;
+  width: 365px;
+  height: 44px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.crearcuenta-usuario-text28 {
+  top: 40.56338119506836px;
+  left: 30.393997192382812px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 201px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-component19 {
+  top: 289px;
+  left: 73px;
+  width: 405px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-usuario-text30 {
+  color: rgba(0, 0, 0, 1);
+  width: 300px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-rectangle31 {
+  top: 25.35211181640625px;
+  left: 0px;
+  width: 405px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.crearcuenta-usuario-rectangle21 {
+  top: 30.422534942626953px;
+  left: 19.7560977935791px;
+  width: 365px;
+  height: 44px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.crearcuenta-usuario-text32 {
+  top: 40.56338119506836px;
+  left: 30.393997192382812px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 201px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-component20 {
+  top: 290px;
+  left: 589px;
+  width: 489px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-usuario-text34 {
+  color: rgba(0, 0, 0, 1);
+  width: 362px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-rectangle32 {
+  top: 25.35211181640625px;
+  left: 0px;
+  width: 489px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.crearcuenta-usuario-rectangle22 {
+  top: 30.422534942626953px;
+  left: 23.85365867614746px;
+  width: 441px;
+  height: 44px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.crearcuenta-usuario-text36 {
+  top: 40.56338119506836px;
+  left: 36.69793701171875px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 243px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-component33 {
+  top: 379px;
+  left: 68px;
+  width: 405px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-usuario-text38 {
+  color: rgba(0, 0, 0, 1);
+  width: 300px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-rectangle33 {
+  top: 25.35211181640625px;
+  left: 0px;
+  width: 405px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.crearcuenta-usuario-rectangle23 {
+  top: 30.422534942626953px;
+  left: 19.7560977935791px;
+  width: 365px;
+  height: 44px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.crearcuenta-usuario-text40 {
+  top: 40.56338119506836px;
+  left: 30.393997192382812px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 201px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-component32 {
+  top: 469px;
+  left: 68px;
+  width: 486px;
+  height: 87px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-usuario-text42 {
+  color: rgba(0, 0, 0, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-rectangle30 {
+  top: 33px;
+  left: 0px;
+  width: 486px;
+  height: 54px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.crearcuenta-usuario-rectangle31 {
+  top: 40px;
+  left: 97px;
+  width: 370px;
+  height: 39px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.crearcuenta-usuario-rectangle32 {
+  top: 41px;
+  left: 13px;
+  width: 64px;
+  height: 38px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.crearcuenta-usuario-line3 {
+  top: 46px;
+  left: 46px;
+  width: 25px;
+  height: 0px;
+  position: absolute;
+}
+.crearcuenta-usuario-text44 {
+  top: 49px;
+  left: 105px;
+  color: rgba(173, 173, 173, 1);
+  width: 53px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-usuario-frameemojiecuador {
+  top: 49px;
+  left: 21px;
+  width: 19.986583709716797px;
+  height: 19.986583709716797px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.crearcuenta-usuario-vector01 {
+  top: 9.993291854858398px;
+  left: -1.1368683772161603e-13px;
+  width: 20px;
+  height: 5px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector02 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 10px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector03 {
+  top: 14.989938735961914px;
+  left: 1.3324389457702637px;
+  width: 17px;
+  height: 5px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector04 {
+  top: 7.422670841217041px;
+  left: 7.789124011993408px;
+  width: 0px;
+  height: 2px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector05 {
+  top: 7.851378440856934px;
+  left: 8.2091703414917px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector06 {
+  top: 6.680208206176758px;
+  left: 7.025313854217529px;
+  width: 1px;
+  height: 3px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector07 {
+  top: 7.85003662109375px;
+  left: 6.571353912353516px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector08 {
+  top: 8.631860733032227px;
+  left: 7.330772876739502px;
+  width: 2px;
+  height: 4px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector09 {
+  top: 9.021939277648926px;
+  left: 7.789124011993408px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector10 {
+  top: 7.928272247314453px;
+  left: 9.851053237915039px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector11 {
+  top: 8.631860733032227px;
+  left: 10.156512260437012px;
+  width: 2px;
+  height: 4px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector12 {
+  top: 9.061260223388672px;
+  left: 10.080229759216309px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector13 {
+  top: 7.195162296295166px;
+  left: 8.094582557678223px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector14 {
+  top: 9.7601318359375px;
+  left: 8.094582557678223px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector15 {
+  top: 9.12347412109375px;
+  left: 8.161189079284668px;
+  width: 4px;
+  height: 1px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector16 {
+  top: 8.59294605255127px;
+  left: 8.12784481048584px;
+  width: 3px;
+  height: 1px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector17 {
+  top: 7.028607368469238px;
+  left: 8.061239242553711px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector18 {
+  top: 9.327073097229004px;
+  left: 8.560904502868652px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector19 {
+  top: 12.591564178466797px;
+  left: 9.693526268005371px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector20 {
+  top: 12.724776268005371px;
+  left: 9.19386100769043px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector21 {
+  top: 12.724776268005371px;
+  left: 9.060568809509277px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector22 {
+  top: 12.025253295898438px;
+  left: 8.494297981262207px;
+  width: 3px;
+  height: 1px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector23 {
+  top: 5.496310710906982px;
+  left: 5.329755783081055px;
+  width: 9px;
+  height: 2px;
+  position: absolute;
+}
+.crearcuenta-usuario-vector24 {
+  top: 5.496310710906982px;
+  left: 9.593576431274414px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.crearcuenta-usuario-frameemojidownpointingsmallredtriangle {
+  top: 55px;
+  left: 58px;
+  width: 7px;
+  height: 7px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.crearcuenta-usuario-vector25 {
+  top: 0px;
+  left: 0px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}

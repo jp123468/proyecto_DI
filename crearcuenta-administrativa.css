@@ -1,0 +1,1199 @@
+.crearcuenta-administrativa-container {
+  min-height: 100vh;
+}
+.crearcuenta-administrativa-crearcuenta-administrativa {
+  width: 100%;
+  height: 976px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.crearcuenta-administrativa-component16 {
+  top: 753px;
+  left: 454px;
+  width: 550px;
+  height: 208px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-administrativa-rectangle6 {
+  top: 138.6666717529297px;
+  left: 0px;
+  width: 457px;
+  height: 69px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 25px;
+}
+.crearcuenta-administrativa-text {
+  top: 155.82130432128906px;
+  left: 124.22118377685547px;
+  color: rgba(255, 255, 255, 1);
+  width: 235px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-component3 {
+  top: 0px;
+  left: 0px;
+  width: 550px;
+  height: 108.64604949951172px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-administrativa-text02 {
+  color: rgba(0, 0, 0, 1);
+  width: 442px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-rectangle4 {
+  top: 39.312713623046875px;
+  left: 0px;
+  width: 457px;
+  height: 69px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.crearcuenta-administrativa-rectangle5 {
+  top: 45.745704650878906px;
+  left: 22.27414321899414px;
+  width: 412px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.crearcuenta-administrativa-text04 {
+  top: 57.182132720947266px;
+  left: 34.267913818359375px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 304px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-text06 {
+  top: 15.010309219360352px;
+  left: 245.8722686767578px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 304px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-eye {
+  top: 61.47079086303711px;
+  left: 392.36761474609375px;
+  width: 39px;
+  height: 19px;
+  position: absolute;
+}
+.crearcuenta-administrativa-text07 {
+  top: 414px;
+  left: 592px;
+  color: rgba(0, 0, 0, 1);
+  width: 127px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-group16 {
+  top: 425.400390625px;
+  left: 618.429931640625px;
+  width: 14.009721755981445px;
+  height: 15.741935729980469px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.crearcuenta-administrativa-line1 {
+  top: 2.318716526031494px;
+  left: -0.000009494357982475776px;
+  width: 15px;
+  height: 0px;
+  position: absolute;
+}
+.crearcuenta-administrativa-line2 {
+  top: -0.000011118358997919131px;
+  left: 14.009713172912598px;
+  width: 17px;
+  height: 0px;
+  position: absolute;
+}
+.crearcuenta-administrativa-group18 {
+  top: 422.6224365234375px;
+  left: 608.4228515625px;
+  width: 14.009721755981445px;
+  height: 12.573251724243164px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.crearcuenta-administrativa-line11 {
+  top: 1.8519773483276367px;
+  left: 0.000004069010174134746px;
+  width: 13px;
+  height: 0px;
+  position: absolute;
+}
+.crearcuenta-administrativa-line21 {
+  top: -0.00001511401842435589px;
+  left: 14.009726524353027px;
+  width: 14px;
+  height: 0px;
+  position: absolute;
+}
+.crearcuenta-administrativa-rectangle36 {
+  top: 210px;
+  left: 5px;
+  width: 699px;
+  height: 784px;
+  position: absolute;
+  border-color: transparent;
+}
+.crearcuenta-administrativa-text09 {
+  top: 384px;
+  left: 594px;
+  color: rgba(0, 0, 0, 1);
+  width: 127px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-component31 {
+  top: 0px;
+  left: 0px;
+  width: 549px;
+  height: 117.95166015625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-administrativa-text11 {
+  color: rgba(0, 0, 0, 1);
+  width: 441px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-rectangle41 {
+  top: 42.67987823486328px;
+  left: 0px;
+  width: 456px;
+  height: 75px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.crearcuenta-administrativa-rectangle51 {
+  top: 49.663856506347656px;
+  left: 22.243270874023438px;
+  width: 412px;
+  height: 61px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.crearcuenta-administrativa-text13 {
+  top: 62.0798225402832px;
+  left: 34.22041702270508px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 304px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-text15 {
+  top: 16.29595375061035px;
+  left: 245.53147888183594px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 304px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-eye1 {
+  top: 66.73580932617188px;
+  left: 391.8237609863281px;
+  width: 38px;
+  height: 21px;
+  position: absolute;
+}
+.crearcuenta-administrativa-frame7 {
+  top: 0px;
+  left: 0px;
+  width: 1441px;
+  height: 171px;
+  display: flex;
+  padding: 10px 1px 10px 0;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.crearcuenta-administrativa-iniciosuperior {
+  width: 1440px;
+  height: 189px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-administrativa-inicio-superior1 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 183px;
+  position: absolute;
+  border-color: transparent;
+}
+.crearcuenta-administrativa-izquierda {
+  top: 0px;
+  left: 0px;
+  width: 509px;
+  height: 189px;
+  position: absolute;
+  border-color: transparent;
+}
+.crearcuenta-administrativa-text16 {
+  top: 48px;
+  left: 205px;
+  color: var(--dl-color-default-inicio);
+  width: 289px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Gayathri;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-pngegg11 {
+  top: 32px;
+  left: 45px;
+  width: 131px;
+  height: 119px;
+  position: absolute;
+  border-color: transparent;
+}
+.crearcuenta-administrativa-text18 {
+  top: 85.11257934570312px;
+  left: 577px;
+  color: var(--dl-color-default-colortextprincipal);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.crearcuenta-administrativa-text20 {
+  top: 85.11257934570312px;
+  left: 805.0001831054688px;
+  color: var(--dl-color-default-colortextprincipal);
+  width: 174px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.crearcuenta-administrativa-text22 {
+  top: 87.61589050292969px;
+  left: 994px;
+  color: var(--dl-color-default-colortextprincipal);
+  width: 168px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.crearcuenta-administrativa-frame14 {
+  top: 38px;
+  left: 1299px;
+  width: 141px;
+  height: 25px;
+  display: flex;
+  padding: 5px 5px 4px 5px;
+  position: absolute;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.crearcuenta-administrativa-text24 {
+  color: var(--dl-color-default-inicio);
+  width: 107px;
+  height: auto;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 6px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-vector {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.crearcuenta-administrativa-text26 {
+  top: 85.11257934570312px;
+  left: 705.0001831054688px;
+  color: var(--dl-color-default-colortextprincipal);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.crearcuenta-administrativa-text28 {
+  top: 210px;
+  left: 441px;
+  color: rgba(243, 115, 32, 0.7400000095367432);
+  width: 482px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-component4 {
+  top: 516.2958984375px;
+  left: 589px;
+  width: 405px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-administrativa-text30 {
+  color: rgba(0, 0, 0, 1);
+  width: 300px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-rectangle3 {
+  top: 25.35211181640625px;
+  left: 0px;
+  width: 405px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.crearcuenta-administrativa-rectangle2 {
+  top: 30.422534942626953px;
+  left: 19.7560977935791px;
+  width: 365px;
+  height: 44px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.crearcuenta-administrativa-text32 {
+  top: 40.56338119506836px;
+  left: 30.393997192382812px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 201px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-component19 {
+  top: 289px;
+  left: 73px;
+  width: 405px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-administrativa-text34 {
+  color: rgba(0, 0, 0, 1);
+  width: 300px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-rectangle31 {
+  top: 25.35211181640625px;
+  left: 0px;
+  width: 405px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.crearcuenta-administrativa-rectangle21 {
+  top: 30.422534942626953px;
+  left: 19.7560977935791px;
+  width: 365px;
+  height: 44px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.crearcuenta-administrativa-text36 {
+  top: 40.56338119506836px;
+  left: 30.393997192382812px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 201px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-component20 {
+  top: 290px;
+  left: 589px;
+  width: 489px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-administrativa-text38 {
+  color: rgba(0, 0, 0, 1);
+  width: 362px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-rectangle32 {
+  top: 25.35211181640625px;
+  left: 0px;
+  width: 489px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.crearcuenta-administrativa-rectangle22 {
+  top: 30.422534942626953px;
+  left: 23.85365867614746px;
+  width: 441px;
+  height: 44px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.crearcuenta-administrativa-text40 {
+  top: 40.56338119506836px;
+  left: 36.69793701171875px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 243px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-component33 {
+  top: 379px;
+  left: 73px;
+  width: 405px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-administrativa-text42 {
+  color: rgba(0, 0, 0, 1);
+  width: 300px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-rectangle33 {
+  top: 25.35211181640625px;
+  left: 0px;
+  width: 405px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.crearcuenta-administrativa-rectangle23 {
+  top: 30.422534942626953px;
+  left: 19.7560977935791px;
+  width: 365px;
+  height: 44px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.crearcuenta-administrativa-text44 {
+  top: 40.56338119506836px;
+  left: 30.393997192382812px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 201px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-component34 {
+  top: 613px;
+  left: 73px;
+  width: 1015px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-administrativa-text46 {
+  color: rgba(0, 0, 0, 1);
+  width: 752px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-rectangle34 {
+  top: 25.35211181640625px;
+  left: 0px;
+  width: 1015px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.crearcuenta-administrativa-rectangle24 {
+  top: 30.422534942626953px;
+  left: 49.5121955871582px;
+  width: 916px;
+  height: 44px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.crearcuenta-administrativa-text48 {
+  top: 40.56338119506836px;
+  left: 76.172607421875px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 505px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-component32 {
+  top: 508px;
+  left: 68px;
+  width: 486px;
+  height: 87px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.crearcuenta-administrativa-text50 {
+  color: rgba(0, 0, 0, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-rectangle30 {
+  top: 33px;
+  left: 0px;
+  width: 486px;
+  height: 54px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.crearcuenta-administrativa-rectangle31 {
+  top: 40px;
+  left: 97px;
+  width: 370px;
+  height: 39px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.crearcuenta-administrativa-rectangle32 {
+  top: 41px;
+  left: 13px;
+  width: 64px;
+  height: 38px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.crearcuenta-administrativa-line3 {
+  top: 46px;
+  left: 46px;
+  width: 25px;
+  height: 0px;
+  position: absolute;
+}
+.crearcuenta-administrativa-text52 {
+  top: 49px;
+  left: 105px;
+  color: rgba(173, 173, 173, 1);
+  width: 53px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.crearcuenta-administrativa-frameemojiecuador {
+  top: 49px;
+  left: 21px;
+  width: 19.986583709716797px;
+  height: 19.986583709716797px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.crearcuenta-administrativa-vector01 {
+  top: 9.993291854858398px;
+  left: -1.1368683772161603e-13px;
+  width: 20px;
+  height: 5px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector02 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 10px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector03 {
+  top: 14.989938735961914px;
+  left: 1.3324389457702637px;
+  width: 17px;
+  height: 5px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector04 {
+  top: 7.422670841217041px;
+  left: 7.789124011993408px;
+  width: 0px;
+  height: 2px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector05 {
+  top: 7.851378440856934px;
+  left: 8.2091703414917px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector06 {
+  top: 6.680208206176758px;
+  left: 7.025313854217529px;
+  width: 1px;
+  height: 3px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector07 {
+  top: 7.85003662109375px;
+  left: 6.571353912353516px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector08 {
+  top: 8.631860733032227px;
+  left: 7.330772876739502px;
+  width: 2px;
+  height: 4px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector09 {
+  top: 9.021939277648926px;
+  left: 7.789124011993408px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector10 {
+  top: 7.928272247314453px;
+  left: 9.851053237915039px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector11 {
+  top: 8.631860733032227px;
+  left: 10.156512260437012px;
+  width: 2px;
+  height: 4px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector12 {
+  top: 9.061260223388672px;
+  left: 10.080229759216309px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector13 {
+  top: 7.195162296295166px;
+  left: 8.094582557678223px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector14 {
+  top: 9.7601318359375px;
+  left: 8.094582557678223px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector15 {
+  top: 9.12347412109375px;
+  left: 8.161189079284668px;
+  width: 4px;
+  height: 1px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector16 {
+  top: 8.59294605255127px;
+  left: 8.12784481048584px;
+  width: 3px;
+  height: 1px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector17 {
+  top: 7.028607368469238px;
+  left: 8.061239242553711px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector18 {
+  top: 9.327073097229004px;
+  left: 8.560904502868652px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector19 {
+  top: 12.591564178466797px;
+  left: 9.693526268005371px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector20 {
+  top: 12.724776268005371px;
+  left: 9.19386100769043px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector21 {
+  top: 12.724776268005371px;
+  left: 9.060568809509277px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector22 {
+  top: 12.025253295898438px;
+  left: 8.494297981262207px;
+  width: 3px;
+  height: 1px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector23 {
+  top: 5.496310710906982px;
+  left: 5.329755783081055px;
+  width: 9px;
+  height: 2px;
+  position: absolute;
+}
+.crearcuenta-administrativa-vector24 {
+  top: 5.496310710906982px;
+  left: 9.593576431274414px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.crearcuenta-administrativa-frameemojidownpointingsmallredtriangle {
+  top: 55px;
+  left: 58px;
+  width: 7px;
+  height: 7px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.crearcuenta-administrativa-vector25 {
+  top: 0px;
+  left: 0px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.crearcuenta-administrativa-rectangle35 {
+  top: 410.7540283203125px;
+  left: 588.4090576171875px;
+  width: 405px;
+  height: 44px;
+  position: absolute;
+}
+.crearcuenta-administrativa-rectangle25 {
+  top: 414.2884521484375px;
+  left: 602.418701171875px;
+  width: 376px;
+  height: 35px;
+  position: absolute;
+}
+.crearcuenta-administrativa-group19 {
+  top: 423.54840087890625px;
+  left: 611.425048828125px;
+  width: 14.009721755981445px;
+  height: 12.573251724243164px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.crearcuenta-administrativa-line12 {
+  top: 1.8519786596298218px;
+  left: 0.00001220703143189894px;
+  width: 13px;
+  height: 0px;
+  position: absolute;
+}
+.crearcuenta-administrativa-line22 {
+  top: -0.00001378213164571207px;
+  left: 14.009734153747559px;
+  width: 14px;
+  height: 0px;
+  position: absolute;
+}

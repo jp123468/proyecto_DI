@@ -1,0 +1,47 @@
+.busqueda-container {
+  min-height: 100vh;
+}
+.busqueda-busqueda {
+  width: 100%;
+  height: 55px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.busqueda-rectangle7 {
+  top: 0px;
+  left: 0px;
+  width: 775px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 35px;
+}
+.busqueda-text {
+  top: 13.75px;
+  left: 111.79972076416016px;
+  color: rgba(255, 244, 244, 1);
+  width: 309px;
+  height: auto;
+  position: absolute;
+  font-size: 38px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Gayathri;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.busqueda-vector {
+  top: 11.649300575256348px;
+  left: 24.545978546142578px;
+  width: 49px;
+  height: 32px;
+  position: absolute;
+}
